@@ -42,11 +42,6 @@ This project implements the **first part** of the simulation task. The system co
 | **L293D Drivers** | Motor Power VCC2 (Pin 8) | 9V Battery Positive Rail |
 | **Ground Line** | Common GND | Arduino GND & 9V GND |
 
----
-
-## 📁 Source Code
-The complete C++ Arduino source code for this simulation can be found in the repository file:
-👉 **[main.ino](./main.ino)** *(or replace with your actual code filename)*
 
 ---
 
